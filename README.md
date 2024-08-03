@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#,.net,MVC**
   
--  I’m currently learning ** Salesforce Developer**
+- 🌱  I’m currently learning ** Salesforce Developer**
 
 - 💬 Ask me about **javaScript,C#,C++**
 
