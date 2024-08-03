@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on **.Net(MVC)**
 
 - 🌱 I’m currently learning **C#,.net,MVC**
+  
+-  I’m currently learning ** Salesforce Developer**
 
 - 💬 Ask me about **javaScript,C#,C++**
 
